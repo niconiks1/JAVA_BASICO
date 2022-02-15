@@ -1,2 +1,6 @@
 //Prueba GitHub
+<<<<<<< Updated upstream
 //hola
+=======
+//Nico ha pasado por aquí
+>>>>>>> Stashed changes
