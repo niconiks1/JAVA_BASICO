@@ -1,7 +1,0 @@
-//Prueba GitHub
-<<<<<<< HEAD
-Buenas gente
-=======
-//hola
->>>>>>> 9fed8e4d9ab6c88c6ea995d10fdcef262ecde57e
-Buenas gente
