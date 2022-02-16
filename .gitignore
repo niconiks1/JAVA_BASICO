@@ -26,3 +26,4 @@ prueba01/.classpath
 *.prefs
 .DS_Store
 /.metadata/
+.project
