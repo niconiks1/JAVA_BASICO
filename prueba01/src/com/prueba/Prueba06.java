@@ -14,7 +14,7 @@ public class Prueba06 {
 
 		int num; // Es el numero utilizado para contar las instancias de clase
 		String valor;
-		double d1, d2;
+		double d1=0.23, d2;
 
 		int hola = 0;
 		int holA;
@@ -27,6 +27,7 @@ public class Prueba06 {
 
 		int resultado = x + y;
 		Prueba06 p = new Prueba06();
+		
 
 		System.out.println(p.devuelveNumeroInstancia(3));
 		p.setNombre("Aitor");
@@ -34,6 +35,7 @@ public class Prueba06 {
 		p.findAnswer(null);
 
 		p.comparacion("hola");
+		System.out.println(((Object)d1).getClass().getName());
 		
 		System.gc();
 
